@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kenhuangus-mcp-vulnerable-server-demo-badge.png)](https://mseep.ai/app/kenhuangus-mcp-vulnerable-server-demo)
+
 # Insecure MCP Demo
 
 ## Overview
